@@ -1,19 +1,14 @@
-
 body {
-
-  	font-family: futura-pt, sans-serif;
-  	font-size: 14pt;
-  	overflow-x: hidden;
-  	margin: 20px;
-  	margin-top: 50px;
-
-
+    font-family: futura-pt, sans-serif;
+    font-size: 14pt;
+    overflow-x: hidden;
+    margin: 20px;
+    margin-top: 50px;
 }
 
 body h3 {
-	color: #565656;
+    color: #565656;
 }
-
 
 @font-face {
     font-family:"futura-pt";
@@ -49,79 +44,69 @@ body h3 {
 
 
 
-@font-face{
+@font-face {
     font-family: "Futura";
     src: ("../fonts/Futurabc.ttf");
-    url('FUTURAB.TTF'); /* IE */
+    url('FUTURAB.TTF'); /* IE */;
 }
 
 .blogo {
-	width: 100px;
-	height: 48px;
-
+    width: 100px;
+    height: 48px;
 }
 
 .talent h1 {
-	color: black;
-	font-size: 20px;
-	text-align: right;
+    color: black;
+    font-size: 20px;
+    text-align: right;
 }
 
-
-
 .racer1 {
-	width: 100%;
-	height: 100%;
-	margin-top: 20px;
-
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
 }
 
 .titlecontents h2 {
-	width: 100%;
-	height: 100%;
-	font-size: 15px;
-	display: block;
-	margin-top: 5px;
-	text-align: right;
-	font-color: black;
-
+    width: 100%;
+    height: 100%;
+    font-size: 15px;
+    display: block;
+    margin-top: 5px;
+    text-align: right;
+    font-color: black;
 }
 
 .project-title h3 {
-	
-	
-
 }
 
 .charger1 {
-	width: 100%;
-	height: 100%;
-
+    width: 100%;
+    height: 100%;
 }
 
 .project1 {
-	height: 100%;
-	width: 100%;
-	border-color: white;
-	border-style: solid;
-	border-width: 1px;
+    height: 100%;
+    width: 100%;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
 }
 
 .project-style {
-	position: relative;
+    position: relative;
     min-height: 1px;
     padding-right: 0px;
     padding-left: 0px;
-  	width: 33.33333333%;
-  	margin: 0 0px 0 0px;
-  	border-color: white;
-  	border-width: 5px;
-  	border-style: solid;
-
+    width: 33.33333333%;
+    margin: 0 0px 0 0px;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
 }
 
 .project-spots {
-	margin-top: 20px;
+    margin-top: 20px;
 }
 
 
@@ -138,13 +123,12 @@ body h3 {
 
 
 .layout-border {
-	border-color: red;
-	border-width: 1px;
-	border-style: solid;
+  border-color: red;
+  border-width: 1px;
+  border-style: solid;
 }
 
 */
-
 
 
 
